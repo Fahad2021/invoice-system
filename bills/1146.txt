@@ -1,0 +1,32 @@
+	Fahad Super Shop
+
+ Bill Number : 1146
+Customer Name:Sanjida Sultana
+Phone Number:0185353535
+=====================================
+ Products		QTY		Price
+=====================================
+ Bath Soap		3		120
+ Face Cream		4		480
+ Face Wash		4		240
+ Hair Sparay		3		120
+ Hair Gell		2		280
+ Body Loshan		3		540
+ Rice 		10		400
+ Food oil 		3		720
+ Dall 		5		700
+ Wheat 		2		680
+ Sugar 		1		410
+ Tea 		5		2200
+ Wheat 		6		240
+ Seven up 		3		720
+ Sprite 		2		680
+ Speed 		5		2200
+-------------------------------------
+ Cosmetic Tax		Tk. 110.0
+-------------------------------------
+ Grocery Tax		Tk. 255.5
+-------------------------------------
+ Cold Drinks Tax		Tk. 192.0
+ Total Bill: 			 Tk. 11150.0
+-------------------------------------
